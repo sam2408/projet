@@ -1,4 +1,2 @@
-
-!test/final
-
 test/*
+!test/final
