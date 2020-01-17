@@ -1,1 +1,6 @@
-*.dat
+*analysis
+*data
+*images
+!final
+
+test/
