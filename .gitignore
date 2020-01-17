@@ -1,6 +1,4 @@
-*analysis
-*data
-*images
-!final
 
-test/
+!test/final
+
+test/*
